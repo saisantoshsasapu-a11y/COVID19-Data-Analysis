@@ -1,17 +1,15 @@
-# 📊 COVID-19 Data Analysis
+# COVID-19 Data Analysis 📊
 
-## Objective
-Analyze COVID-19 dataset to explore confirmed cases, recoveries, and regional impact.
+## 📌 Overview
+This project analyzes COVID-19 data to explore trends in confirmed cases, recoveries, and deaths across different regions.  
+The goal is to demonstrate data cleaning, exploratory data analysis (EDA), and data visualization using Python.
 
-## Tools
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
+## 🛠️ Tools & Libraries
+- Python 🐍
+- Pandas (data cleaning & manipulation)
+- NumPy (numerical analysis)
+- Matplotlib & Seaborn (visualizations)
 - Jupyter Notebook
-- Excel
-
-## Files
-- `Data/Covid_19_data.csv` → Dataset
-- `Notebooks/Project4_Covid19_Analysis.ipynb` → Analysis Notebook
-- `Reports/visuals.png` → Sample charts
 
 ## How to Run
 ```bash
