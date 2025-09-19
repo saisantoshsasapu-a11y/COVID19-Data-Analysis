@@ -6,6 +6,7 @@ Analyze COVID-19 dataset to explore confirmed cases, recoveries, and regional im
 ## Tools
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Jupyter Notebook
+- Excel
 
 ## Files
 - `Data/Covid_19_data.csv` → Dataset
