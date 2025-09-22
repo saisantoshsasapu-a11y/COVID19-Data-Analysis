@@ -14,4 +14,4 @@ The goal is to demonstrate data cleaning, exploratory data analysis (EDA), and d
 ## How to Run
 ```bash
 pip install -r requirements.txt
-jupyter notebook Notebooks/Project4_Covid19_Analysis.ipynb
+jupyter notebook Notebooks/Covid19_Analysis.ipynb
