@@ -5,7 +5,7 @@ This project analyzes COVID-19 data to explore trends in confirmed cases, recove
 The goal is to demonstrate data cleaning, exploratory data analysis (EDA), and data visualization using Python.
 
 ## 🛠️ Tools & Libraries
-- Python 🐍
+- Python
 - Pandas (data cleaning & manipulation)
 - NumPy (numerical analysis)
 - Matplotlib & Seaborn (visualizations)
