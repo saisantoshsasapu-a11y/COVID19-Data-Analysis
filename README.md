@@ -8,7 +8,7 @@ The goal is to demonstrate data cleaning, exploratory data analysis (EDA), and d
 1. **Data Cleaning**
    - Handle missing values
    - Convert date formats
-   - Normalize data per 100k population
+   - Normalize data per population
 2. **Exploratory Data Analysis (EDA)**
    - Trends of cases and deaths over time
    - Comparison between countries
